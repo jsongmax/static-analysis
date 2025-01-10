@@ -1,11 +1,10 @@
-name: 🐊Putout
+name: Putout
 categories:
   - linter
 tags:
   - javascript
   - typescript
   - jsx
-  - flow
   - css
   - json
   - markdown
